@@ -1,2 +1,3 @@
 "Default": "Server=10.92.77.82,1433;Database=CustodyAdmin;User ID=sa;Password=rLDQWnJJkt1fhU;TrustServerCertificate=true;",
 https://dashboards.k8s.shd.eradahcapital.com/explore?panes=%7B%22Ks8%22:%7B%22datasource%22:%22loki%22,%22queries%22:%5B%7B%22refId%22:%22A%22,%22expr%22:%22%7Bnamespace%3D%5C%22klickl-dev%5C%22%7D%20%7C~%20%60google%20verify%20score%20low%60%22,%22queryType%22:%22range%22,%22datasource%22:%7B%22type%22:%22loki%22,%22uid%22:%22loki%22%7D,%22editorMode%22:%22builder%22%7D%5D,%22range%22:%7B%22from%22:%22now-15m%22,%22to%22:%22now%22%7D%7D%7D&schemaVersion=1&orgId=1
+https://klickl-dev.web3.mesh.eradahcapital.com/
