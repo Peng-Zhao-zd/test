@@ -3,3 +3,6 @@ https://dashboards.k8s.shd.eradahcapital.com/explore?panes=%7B%22Ks8%22:%7B%22da
 https://klickl-dev.web3.mesh.eradahcapital.com/
 https://klickl-uat.web3.mesh.eradahcapital.com/user/register?id=645298583898599424c0ef&lang=en
 MoHua.Zhao-zd@zand.ae
+liyan.jiang-zd+test-Finace03@zand.ae
+Zand@12345678
+ 
