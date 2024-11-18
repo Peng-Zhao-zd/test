@@ -7,3 +7,4 @@ liyan.jiang-zd+test-Finace03@zand.ae
 Zand@12345678
  https://klickl-admin-uat.web3.mesh.eradahcapital.com/#/login
 https://klickl-admin-uat.web3.mesh.eradahcapital.com/#/login
+update CustodyIdentity.dbo.AbpUsers set PhoneNumber=''
