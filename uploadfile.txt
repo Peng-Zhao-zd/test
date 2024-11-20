@@ -11,3 +11,5 @@ update CustodyIdentity.dbo.AbpUsers set PhoneNumber=''
 lockie.lui+regression-initiator02@zand.ae / Zand@1234567
 select a.AccountId,a.CoinAddress,b.CoinName,sum(a.ActualPayQuantity),sum(a.Fee),sum(a.GasFee) from CoinTransactionOuts as a, Coins as b where a.CoinID=b.Id
 group by a.AccountId,a.CoinAddress,b.CoinName
+select AccountId,CoinAddress,sum(ActualPayQuantity),sum(Fee),sum(GasFee) from CoinTransactionOuts
+group by AccountId,CoinAddress order by AccountId
