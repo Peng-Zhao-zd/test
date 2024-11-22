@@ -19,4 +19,5 @@ select a.AccountId,a.CoinID,a.CoinChain,a.charge,coalesce(b.actual,0) as actual,
 (select AccountId,CoinID,CoinChain,sum(ActualPayQuantity) as actual,sum(Fee) as fee,sum(GasFee) as gas from CoinTransactionOuts where CreateTime>'2020-01-01' and CreateTime<'2024-12-31' group by AccountId,CoinID,CoinChain) as b on a.AccountId=b.AccountId and a.CoinChain=b.CoinChain and a.CoinID=b.CoinID
 left join 
 (select AccountId,VarietyID,sum(Num) as hold from Holds where CreateTime>'2020-01-01' and CreateTime<'2024-12-31' group by AccountId,VarietyID) as c on a.AccountId=c.AccountId and a.CoinID=c.VarietyID
-select c.UserName,c.Name,c.Cif,a.BlockChain,b.CoinID,b.Address from CustodyIdentity_Dev.dbo.Accounts as c,WalletCoinMappings as a,CustomerWallets as b where a.AccountId=b.AccountId and c.UserName=b.AccountId and a.id=b.WalletId 
+select c.UserName,c.Name,c.Cif,c.AccountType,a.BlockChain,b.CoinID,b.Address from CustodyIdentity_Dev.dbo.Accounts as c,WalletCoinMappings as a,CustomerWallets as b where a.AccountId=b.AccountId and c.UserName=b.AccountId and a.id=b.WalletId 
+
