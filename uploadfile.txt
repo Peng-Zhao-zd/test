@@ -31,3 +31,4 @@ CoinTransactionIns InternalReconciliationId
 ExternalReconciliations full table
 InternalReconciliations full table
 0xb0373a00dea86c38c1380a9b26b3f11ed64f8a7b
+乖乖站好
