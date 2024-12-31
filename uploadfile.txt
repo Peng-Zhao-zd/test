@@ -33,3 +33,5 @@ InternalReconciliations full table
 0xb0373a00dea86c38c1380a9b26b3f11ed64f8a7b
 乖乖站好
 peng.zhao-zd@zand.ae
+saas {"title":"MailProducer","FullName":"EasyAbp.Abp.EventBus.Cap.CapDistributedEventBus","capConnectionString":"rabbitmq-headless,5672,klickl,o0P9AuchccshQ1Li8xeiG0ru","HostName":"rabbitmq-headless","Port":"5672","UserName":"klickl","Password":"o0P9AuchccshQ1Li8xeiG0ru"}
+schedule {"title":"MailProducer","FullName":"EasyAbp.Abp.EventBus.Cap.CapDistributedEventBus","capConnectionString":"rabbitmq-headless,5672,klickl,o0P9AuchccshQ1Li8xeiG0ru","HostName":"rabbitmq-headless","Port":"5672","UserName":"klickl","Password":"o0P9AuchccshQ1Li8xeiG0ru"}
