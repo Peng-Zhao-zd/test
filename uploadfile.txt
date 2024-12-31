@@ -35,3 +35,16 @@ InternalReconciliations full table
 peng.zhao-zd@zand.ae
 saas {"title":"MailProducer","FullName":"EasyAbp.Abp.EventBus.Cap.CapDistributedEventBus","capConnectionString":"rabbitmq-headless,5672,klickl,o0P9AuchccshQ1Li8xeiG0ru","HostName":"rabbitmq-headless","Port":"5672","UserName":"klickl","Password":"o0P9AuchccshQ1Li8xeiG0ru"}
 schedule {"title":"MailProducer","FullName":"EasyAbp.Abp.EventBus.Cap.CapDistributedEventBus","capConnectionString":"rabbitmq-headless,5672,klickl,o0P9AuchccshQ1Li8xeiG0ru","HostName":"rabbitmq-headless","Port":"5672","UserName":"klickl","Password":"o0P9AuchccshQ1Li8xeiG0ru"}
+
+
+======
+{"title":"MailProducer","FullName":"EasyAbp.Abp.EventBus.Cap.CapDistributedEventBus","capConnectionString":"rabbitmq-headless,5672,klickl,o0P9AuchccshQ1Li8xeiG0ru","MqType":"RabbitMQ","StoreConnectionString":"Server=klickl-db,55541;Database=CustodyBussiness_dev;User ID=klickladmin;Password=KlicklAdm1n2024;TrustServerCertificate=true;","Enable":"True","HostName":"rabbitmq-headless","Port":"5672","UserName":"klickl","Password":"o0P9AuchccshQ1Li8xeiG0ru"}
+{"title":"MailProducer","FullName":"EasyAbp.Abp.EventBus.Cap.CapDistributedEventBus","capConnectionString":"rabbitmq-headless,5672,klickl,o0P9AuchccshQ1Li8xeiG0ru","MqType":"RabbitMQ","StoreConnectionString":"Server=klickl-db,55541;Database=CustodyAdmin_dev;User ID=klickladmin;Password=KlicklAdm1n2024;TrustServerCertificate=true;","Enable":"True","HostName":"rabbitmq-headless","Port":"5672","UserName":"klickl","Password":"o0P9AuchccshQ1Li8xeiG0ru"}
+
+
+
+
+
+
+
+
