@@ -45,7 +45,8 @@ schedule {"title":"MailProducer","FullName":"EasyAbp.Abp.EventBus.Cap.CapDistrib
 {"title":"MailProducer","FullName":"EasyAbp.Abp.EventBus.Cap.CapDistributedEventBus","capConnectionString":"rabbitmq-headless,5672,klickl,o0P9AuchccshQ1Li8xeiG0ru","MqType":"RabbitMQ","StoreConnectionString":"Server=klickl-db,55541;Database=CustodyAdmin_dev;User ID=klickladmin;Password=KlicklAdm1n2024;TrustServerCertificate=true;","Enable":"True","HostName":"rabbitmq-headless","Port":"5672","UserName":"klickl","Password":"o0P9AuchccshQ1Li8xeiG0ru"}
 
 https://klickl-dev.web3.mesh.eradahcapital.com/approval/records
-
+0xf60d5c238df68294b165348c5612a3237404b6ca
+0x461808c97d2dd7a7c33ebd338d482836eb44fdc1
 
 
 
