@@ -48,5 +48,5 @@ https://klickl-dev.web3.mesh.eradahcapital.com/approval/records
 0xf60d5c238df68294b165348c5612a3237404b6ca
 0x461808c97d2dd7a7c33ebd338d482836eb44fdc1
 
-
+core.sql.eradahcapital.com,55541
 
