@@ -50,3 +50,4 @@ https://klickl-dev.web3.mesh.eradahcapital.com/approval/records
 
 core.sql.eradahcapital.com,55541
 
+https://klickl-admin-gateway-dev.web3.mesh.eradahcapital.com/swagger/index.html
