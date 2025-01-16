@@ -51,3 +51,8 @@ https://klickl-dev.web3.mesh.eradahcapital.com/approval/records
 core.sql.eradahcapital.com,55541
 
 https://klickl-admin-gateway-dev.web3.mesh.eradahcapital.com/swagger/index.html
+
+
+
+{"title":"TwoFactorAuthenticationSetup@Authenticator","user":{"TenantId":null,"UserName":"mohua-devadmin","NormalizedUserName":"MOHUA-DEVADMIN","Name":"mohua-devadmin","Surname":null,"Email":"7ebc683a2d@fake.com","NormalizedEmail":"7EBC683A2D@FAKE.COM","EmailConfirmed":true,"PasswordHash":"AQAAAAIAAYagAAAAEI9LwAQ9o3EYCzHcArONMLcNSHg4ClHEfyfJUQ0/Z1+TDnYtcuhfiKVnP/3SU5FwHw==","SecurityStamp":"YIX2F3GANPDLCR7LYXY5WOBO25PXXGQW","IsExternal":false,"PhoneNumber":null,"PhoneNumberConfirmed":false,"IsActive":true,"TwoFactorEnabled":false,"LockoutEnd":null,"LockoutEnabled":true,"AccessFailedCount":0,"ShouldChangePasswordOnNextLogin":false,"EntityVersion":47,"LastPasswordChangeTime":"2024-11-29 06:16:35.979","Roles":null,"Claims":null,"Logins":null,"Tokens":[{"TenantId":null,"UserId":"4913cffb-049e-2da1-c75f-3a1688ba8426","LoginProvider":"[AspNetUserStore]","Name":"AuthenticatorKey","Value":"T4UV5OH52OIKX4XSLEEXSLA7BFBA7SM6"}],"OrganizationUnits":null,"IsDeleted":false,"DeleterId":null,"DeletionTime":null,"LastModificationTime":"2025-01-16 07:07:42.527","LastModifierId":"4913cffb-049e-2da1-c75f-3a1688ba8426","CreationTime":"2024-11-29 06:13:36.543","CreatorId":"4aaee0c0-a9c5-3795-4c49-3a15cff2b0e3","ExtraProperties":{},"ConcurrencyStamp":"fbbc8ea5139b44d1a8d8b356b4398e2b","Id":"4913cffb-049e-2da1-c75f-3a1688ba8426"}
+
