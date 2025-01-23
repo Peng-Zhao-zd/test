@@ -60,3 +60,4 @@ https://klickl-admin-gateway-dev.web3.mesh.eradahcapital.com/swagger/index.html
 jianping.long-zd+klickluat.user@zand.ae
 Password123！
 yanhui.zhang-zd+test@zand.ae
+0x461808c97d2dd7a7c33ebd338d482836eb44fdc1
